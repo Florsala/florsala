@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working hard to get experience in the IT area
 
-- 🌱 I’m currently learning **UX/UI**. Design is one of my passions, as well as illustration and travel.
+- 🌱 I’m currently learning **UX/UI**. Design is one of my passions, as well as languages, illustration and travel.
 
 - 👨‍💻 All of my projects will be available soon in my personal website, still in process!.
 

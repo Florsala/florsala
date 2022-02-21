@@ -7,6 +7,15 @@
 
 - 🌱 I’m currently learning **UX/UI**. Design is one of my passions, as well as languages, illustration and travel.
 
+** Languages I speak:
+```
+Spanish (native)
+French
+English
+Portuguese
+
+```
+
 - 👨‍💻 All of my projects will be available soon in my personal website, still in process!.
 
 - 💬 Ask me about **react, javascript, web development**
